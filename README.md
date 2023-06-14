@@ -67,7 +67,8 @@ is visualised as a histogram and is output alongside the test statistic
 and significance of the observed bad vs. standard player score
 difference.
 
-To run the simulation of games and resampling test, simply run the command:
+To run the simulation of games and resampling test, simply download
+boulesResampling_full.m and run the command:
 ```
 [pValue, testStats, dist] = boulesResampling()
 ```
