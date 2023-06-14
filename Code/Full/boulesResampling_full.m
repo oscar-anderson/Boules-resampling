@@ -159,7 +159,7 @@ function Loc = throwBadPlayer(JackLoc, LawnSize)
 % The player's skill level is operationalised by the sigma input to the 
 % truncated Gaussian, used by throwBall() to simulate the aim of the throw.
 % In this case, the sigma/standard aim is defined as a standard deviation
-% of 1.
+% of 1.5.
 
 % Inputs:
 %    JackLoc = location coordinates of the jack, within the lawn.
