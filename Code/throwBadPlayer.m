@@ -1,5 +1,4 @@
 %% Simulate ball throw of poorly-skilled player.
-
 function Loc = throwBadPlayer(JackLoc, LawnSize)
 
 % This function utilises the previously-defined throwBall() function to
